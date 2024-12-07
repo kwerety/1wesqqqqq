@@ -1,1 +1,32 @@
+{
+	"produts": [
+		{
+			"id": 2,
+			"author_id": 1,
+			"name":  "hydrogen bomb",
+			"description": "A hydrogen bomb is a powerful weapon that uses nuclear fusion to create a massive explosion, far stronger than an atomic bomb. It has two stages: fission triggers fusion, releasing immense energy.",
+			"price":150000000,
+			"img_url" : "https://c.files.bbci.co.uk/11FC6/production/_87507637_gettyimages-486157800.jpg",
+			"in_stock" : false
+		},
+				{
+			"id": 3,
+			"author_id": 1,
+			"name":  "hydrogen bomb 2",
+			"description": "A hydrogen bomb 2 is a powerful weapon that uses nuclear fusion to create a massive explosion, far stronger than an atomic bomb. It has two stages: fission triggers fusion, releasing immense energy.",
+			"price":250000000,
+			"img_url" : "https://ahf.nuclearmuseum.org/wp-content/uploads/2023/11/Mk-17_Theronuclear_Bomb_National_Museum_of_Nuclear_Science__History.jpg",
+			"in_stock" : true
+		},
 
+		{
+			"id": 4,
+			"author_id": 2,
+			"name":  "cheeseburger",
+			"description": "cheeseburger muaaaaa",
+			"price":25,
+			"img_url" : "https://static.wikia.nocookie.net/silly-cat/images/1/11/Cheeseburger.png/revision/latest?cb=20240124021014",
+			"in_stock" : true
+		},
+	] 
+}
